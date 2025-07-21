@@ -1,6 +1,3 @@
-# etl-data-pipelines-airflow-kafka
-Projects using Apache Airflow, Bash, Python, and Kafka to build ETL and streaming data pipelines.
-
 # ETL and Data Pipeline Projects (Airflow, Kafka)
 
 This repository contains three end-to-end projects demonstrating ETL pipelines using Bash, Python, Apache Airflow, and real-time streaming with Apache Kafka and MySQL.
